@@ -15,9 +15,11 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-his Flutter application is an online book store that allows users to explore a collection of books, view book details, and add books to their shopping cart. The app fetches book data from the Wolne Lektury API, providing a diverse range of literary works.
+                  //**Description**//
 
-Features
+This Flutter application is an online book store that allows users to explore a collection of books, view book details, and add books to their shopping cart. The app fetches book data from the Wolne Lektury API, providing a diverse range of literary works.
+
+    Features
 Browse Books: Explore a vast collection of books from various genres and epochs.
 Book Details: View detailed information about each book, including the title, author, genre, and cover image.
 Shopping Cart: Add books to your shopping cart for future purchase.
@@ -26,8 +28,8 @@ Responsive Design: The app provides a responsive user interface that adapts to d
 Usage
 Clone the repository: git clone https://github.com/Saleemullahkhan2002/online-book-store.git
 Open the project in Flutter: flutter run
-Dependencies
-Flutter
+
+      Dependencies
 Provider for state management
 HTTP for making API requests
 URL Launcher for launching URLs
